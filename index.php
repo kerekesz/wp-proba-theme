@@ -17,6 +17,8 @@
 get_header();
 ?>
 
+Ide módosítok már egy kicsit.
+
 <main id="site-content" role="main">
 
 	<?php
